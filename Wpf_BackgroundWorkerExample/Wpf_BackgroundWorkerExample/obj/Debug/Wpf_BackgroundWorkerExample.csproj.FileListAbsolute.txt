@@ -1,0 +1,14 @@
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\bin\Debug\Wpf_BackgroundWorkerExample.exe.config
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\bin\Debug\Wpf_BackgroundWorkerExample.exe
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\bin\Debug\Wpf_BackgroundWorkerExample.pdb
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\obj\Debug\Wpf_BackgroundWorkerExample.csprojResolveAssemblyReference.cache
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\obj\Debug\MainWindow.g.cs
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\obj\Debug\App.g.cs
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\obj\Debug\Wpf_BackgroundWorkerExample_MarkupCompile.cache
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\obj\Debug\Wpf_BackgroundWorkerExample_MarkupCompile.lref
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\obj\Debug\MainWindow.baml
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\obj\Debug\Wpf_BackgroundWorkerExample.g.resources
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\obj\Debug\Wpf_BackgroundWorkerExample.Properties.Resources.resources
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\obj\Debug\Wpf_BackgroundWorkerExample.csproj.GenerateResource.Cache
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\obj\Debug\Wpf_BackgroundWorkerExample.exe
+c:\users\berk\documents\visual studio 2015\Projects\Wpf_BackgroundWorkerExample\Wpf_BackgroundWorkerExample\obj\Debug\Wpf_BackgroundWorkerExample.pdb
